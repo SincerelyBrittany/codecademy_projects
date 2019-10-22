@@ -4,6 +4,8 @@
     <title> Every day with Isa </title> 
   </head>  
   <body>
+  <!--- Directions found here: https://www.codecademy.com/courses/learn-html/projects/fashion-blog --->
+     <!--- completed project can be found here:  https://www.codecademy.com/courses/learn-html/projects/fashion-blog --->
   <a href="#contact">  <img src = "https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/profile.jpg"></a>
     <h3> by Isabelle Rodriguez | 1 day ago </h3>
     <h1>  An Insider’s Guide to NYFW </h1>
